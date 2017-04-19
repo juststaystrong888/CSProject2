@@ -1,4 +1,4 @@
-
+;
 ;This program  outputs all of the digits for my k-number in correct sequence.
 ;Only the last number will be displayed on the LEDs, because my Arduino writes the numbers out very fast to the LEDs.
 ;Firstly, i initialize status register, specify PORTB and the direction of data flow for our I/O on PORTB(the Data Direction Register (DDRB)).
